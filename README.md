@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Shopping Analytics Project
 
 > Uncovering retail insights through Python, SQL, and Power BI
 
